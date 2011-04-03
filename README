@@ -1,4 +1,4 @@
-MGSplitViewController
+CHViewControllerSwitcher
 =====================
 CHViewControllerSwitcher is a replacement for UITabBarController, with useful features.
 
@@ -15,7 +15,6 @@ Features
 - Allows you to create your own selection interface with UI-components.
 - Allows you to use just some part of the window, not the full-screen mode.
 - Allows you to custom frame sizes of the content view for the portrait/landscape modes.
-
 
 
 Copyright (c) 2011 cheolhee
