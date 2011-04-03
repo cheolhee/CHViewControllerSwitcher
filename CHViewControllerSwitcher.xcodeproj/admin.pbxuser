@@ -1,0 +1,397 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {696, 658}}";
+			sepNavSelRange = "{298, 0}";
+			sepNavVisRange = "{0, 731}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {767, 1792}}";
+			sepNavSelRange = "{2956, 0}";
+			sepNavVisRange = "{781, 1300}";
+			sepNavWindowFrame = "{{15, 298}, {826, 755}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SwitcherTest */ = {
+		activeExec = 0;
+		executables = (
+			844FE29613462DCD007E740B /* SwitcherTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CHViewControllerSwitcher.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {696, 658}}";
+			sepNavSelRange = "{388, 0}";
+			sepNavVisRange = "{0, 905}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CHViewControllerSwitcher.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {696, 4704}}";
+			sepNavSelRange = "{1611, 0}";
+			sepNavVisRange = "{3269, 989}";
+			sepNavWindowFrame = "{{289, 248}, {826, 755}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 844FE29613462DCD007E740B /* SwitcherTest */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SwitcherTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SwitcherTest */,
+		);
+		codeSenseManager = 844FE2A213462DE5007E740B /* Code sense */;
+		executables = (
+			844FE29613462DCD007E740B /* SwitcherTest */,
+			84E09CA0134893EB00811A9E /* SwitcherTest-iPad */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					467,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					532,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					494,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					427,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323522889;
+			PBXWorkspaceStateSaveDate = 323522889;
+		};
+		perUserProjectItems = {
+			84B0CA9F13477577009F2189 /* PBXTextBookmark */ = 84B0CA9F13477577009F2189 /* PBXTextBookmark */;
+			84B0CB3F13487AD9009F2189 /* PBXTextBookmark */ = 84B0CB3F13487AD9009F2189 /* PBXTextBookmark */;
+			84B0CB6C134885EE009F2189 /* PBXTextBookmark */ = 84B0CB6C134885EE009F2189 /* PBXTextBookmark */;
+			84E09C37134891C300811A9E /* PlistBookmark */ = 84E09C37134891C300811A9E /* PlistBookmark */;
+			84E09C6C1348930300811A9E /* PBXTextBookmark */ = 84E09C6C1348930300811A9E /* PBXTextBookmark */;
+			84E09C6D1348930300811A9E /* PBXTextBookmark */ = 84E09C6D1348930300811A9E /* PBXTextBookmark */;
+			84E09C711348935600811A9E /* PBXTextBookmark */ = 84E09C711348935600811A9E /* PBXTextBookmark */;
+			84E09C721348935600811A9E /* PBXTextBookmark */ = 84E09C721348935600811A9E /* PBXTextBookmark */;
+			84E09C731348935600811A9E /* PBXTextBookmark */ = 84E09C731348935600811A9E /* PBXTextBookmark */;
+			84E09C8C134893C400811A9E /* PBXTextBookmark */ = 84E09C8C134893C400811A9E /* PBXTextBookmark */;
+			84E09CCD134896E800811A9E /* PBXTextBookmark */ = 84E09CCD134896E800811A9E /* PBXTextBookmark */;
+			84E09CCF134896F600811A9E /* PlistBookmark */ = 84E09CCF134896F600811A9E /* PlistBookmark */;
+		};
+		sourceControlManager = 844FE2A113462DE5007E740B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {696, 638}}";
+			sepNavSelRange = "{188, 0}";
+			sepNavVisRange = "{0, 394}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* CHViewControllerSwitcher_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {696, 658}}";
+			sepNavSelRange = "{217, 0}";
+			sepNavVisRange = "{0, 217}";
+		};
+	};
+	844FE29613462DCD007E740B /* SwitcherTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SwitcherTest;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	844FE2A113462DE5007E740B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	844FE2A213462DE5007E740B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	84B0C8ED13464D85009F2189 /* TableVC.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {696, 658}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{0, 184}";
+		};
+	};
+	84B0C8EE13464D85009F2189 /* TableVC.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4138, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4189, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4239, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4942}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {696, 3104}}";
+			sepNavSelRange = "{3975, 20}";
+			sepNavVisRange = "{0, 791}";
+		};
+	};
+	84B0CA9F13477577009F2189 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 12";
+		rLen = 0;
+		rLoc = 163;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	84B0CB3F13487AD9009F2189 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AppDelegate.m */;
+		name = "AppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 786;
+		vrLoc = 0;
+	};
+	84B0CB5213487B6E009F2189 /* Switcher.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {809, 352}}";
+			sepNavSelRange = "{314, 0}";
+			sepNavVisRange = "{0, 225}";
+		};
+	};
+	84B0CB5313487B6E009F2189 /* Switcher.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {645, 1328}}";
+			sepNavSelRange = "{1064, 0}";
+			sepNavVisRange = "{463, 1092}";
+		};
+	};
+	84B0CB6C134885EE009F2189 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84B0C8EE13464D85009F2189 /* TableVC.m */;
+		name = "MyTblVC.m: 151";
+		rLen = 20;
+		rLoc = 3975;
+		rType = 0;
+		vrLen = 791;
+		vrLoc = 0;
+	};
+	84E09C37134891C300811A9E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CHViewControllerSwitcher-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/RAMDisk/CHViewControllerSwitcher/CHViewControllerSwitcher-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	84E09C6C1348930300811A9E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 731;
+		vrLoc = 0;
+	};
+	84E09C6D1348930300811A9E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CHViewControllerSwitcher.m */;
+		name = "CHViewControllerSwitcher.m: 68";
+		rLen = 0;
+		rLoc = 1611;
+		rType = 0;
+		vrLen = 989;
+		vrLoc = 3269;
+	};
+	84E09C711348935600811A9E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CHViewControllerSwitcher.h */;
+		name = "CHViewControllerSwitcher.h: 20";
+		rLen = 0;
+		rLoc = 388;
+		rType = 0;
+		vrLen = 905;
+		vrLoc = 0;
+	};
+	84E09C721348935600811A9E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* CHViewControllerSwitcher_Prefix.pch */;
+		name = "CHViewControllerSwitcher_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 217;
+		rType = 0;
+		vrLen = 217;
+		vrLoc = 0;
+	};
+	84E09C731348935600811A9E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84B0CB5213487B6E009F2189 /* Switcher.h */;
+		name = "Switcher.h: 20";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	84E09C8C134893C400811A9E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84B0C8ED13464D85009F2189 /* TableVC.h */;
+		name = "TableVC.h: 17";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 184;
+		vrLoc = 0;
+	};
+	84E09C8E134893EB00811A9E /* SwitcherTest-iPad */ = {
+		activeExec = 0;
+		executables = (
+			84E09CA0134893EB00811A9E /* SwitcherTest-iPad */,
+		);
+	};
+	84E09CA0134893EB00811A9E /* SwitcherTest-iPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "SwitcherTest-iPad";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	84E09CCD134896E800811A9E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84B0CB5313487B6E009F2189 /* Switcher.m */;
+		name = "Switcher.m: 42";
+		rLen = 0;
+		rLoc = 1064;
+		rType = 0;
+		vrLen = 1092;
+		vrLoc = 463;
+	};
+	84E09CCF134896F600811A9E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CHViewControllerSwitcher-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/RAMDisk/CHViewControllerSwitcher/CHViewControllerSwitcher-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
