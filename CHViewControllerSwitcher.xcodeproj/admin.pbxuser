@@ -42,7 +42,6 @@
 		activeSDKPreference = iphonesimulator4.2;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* SwitcherTest */;
 		addToTargets = (
-			1D6058900D05DD3D006BFB54 /* SwitcherTest */,
 		);
 		codeSenseManager = 844FE2A213462DE5007E740B /* Code sense */;
 		executables = (
@@ -55,7 +54,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					467,
+					482,
 					20,
 					48,
 					43,
@@ -130,14 +129,16 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 323522889;
-			PBXWorkspaceStateSaveDate = 323522889;
+			PBXPerProjectTemplateStateSaveDate = 323533776;
+			PBXWorkspaceStateSaveDate = 323533776;
 		};
 		perUserProjectItems = {
+			848FA9EF1348BC0E00B2EC8A /* PlistBookmark */ = 848FA9EF1348BC0E00B2EC8A /* PlistBookmark */;
+			848FA9F01348BC0E00B2EC8A /* PBXBookmark */ = 848FA9F01348BC0E00B2EC8A /* PBXBookmark */;
+			848FA9F11348BC0E00B2EC8A /* PBXTextBookmark */ = 848FA9F11348BC0E00B2EC8A /* PBXTextBookmark */;
 			84B0CA9F13477577009F2189 /* PBXTextBookmark */ = 84B0CA9F13477577009F2189 /* PBXTextBookmark */;
 			84B0CB3F13487AD9009F2189 /* PBXTextBookmark */ = 84B0CB3F13487AD9009F2189 /* PBXTextBookmark */;
 			84B0CB6C134885EE009F2189 /* PBXTextBookmark */ = 84B0CB6C134885EE009F2189 /* PBXTextBookmark */;
-			84E09C37134891C300811A9E /* PlistBookmark */ = 84E09C37134891C300811A9E /* PlistBookmark */;
 			84E09C6C1348930300811A9E /* PBXTextBookmark */ = 84E09C6C1348930300811A9E /* PBXTextBookmark */;
 			84E09C6D1348930300811A9E /* PBXTextBookmark */ = 84E09C6D1348930300811A9E /* PBXTextBookmark */;
 			84E09C711348935600811A9E /* PBXTextBookmark */ = 84E09C711348935600811A9E /* PBXTextBookmark */;
@@ -145,7 +146,6 @@
 			84E09C731348935600811A9E /* PBXTextBookmark */ = 84E09C731348935600811A9E /* PBXTextBookmark */;
 			84E09C8C134893C400811A9E /* PBXTextBookmark */ = 84E09C8C134893C400811A9E /* PBXTextBookmark */;
 			84E09CCD134896E800811A9E /* PBXTextBookmark */ = 84E09CCD134896E800811A9E /* PBXTextBookmark */;
-			84E09CCF134896F600811A9E /* PlistBookmark */ = 84E09CCF134896F600811A9E /* PlistBookmark */;
 		};
 		sourceControlManager = 844FE2A113462DE5007E740B /* Source Control */;
 		userBuildSettings = {
@@ -209,6 +209,38 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
+	848FA9EE1348BBEF00B2EC8A /* README.markdown */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {645, 656}}";
+			sepNavSelRange = "{24, 0}";
+			sepNavVisRange = "{0, 1360}";
+		};
+	};
+	848FA9EF1348BC0E00B2EC8A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CHViewControllerSwitcher-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/admin/git/CHViewControllerSwitcher/CHViewControllerSwitcher-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	848FA9F01348BC0E00B2EC8A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 848FA9EE1348BBEF00B2EC8A /* README.markdown */;
+	};
+	848FA9F11348BC0E00B2EC8A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 848FA9EE1348BBEF00B2EC8A /* README.markdown */;
+		name = "README.markdown: 1";
+		rLen = 0;
+		rLoc = 24;
+		rType = 0;
+		vrLen = 1360;
+		vrLoc = 0;
+	};
 	84B0C8ED13464D85009F2189 /* TableVC.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {696, 658}}";
@@ -267,17 +299,6 @@
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 0;
-	};
-	84E09C37134891C300811A9E /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* CHViewControllerSwitcher-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Volumes/RAMDisk/CHViewControllerSwitcher/CHViewControllerSwitcher-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
 	};
 	84E09C6C1348930300811A9E /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -382,16 +403,5 @@
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 463;
-	};
-	84E09CCF134896F600811A9E /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* CHViewControllerSwitcher-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Volumes/RAMDisk/CHViewControllerSwitcher/CHViewControllerSwitcher-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
 	};
 }
