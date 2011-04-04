@@ -4,11 +4,10 @@ CHViewControllerSwitcher is a replacement for UITabBarController, with useful fe
 
 Why I created this
 --------------------------
-UITabBarController is a great selection interface. 
-However, some people want: 
-- a tab bar at the top of the window
-- six or seven buttons on the tab bar
-- their own tab bar
+UITabBarController is a great selection interface. However, some people want:   
+- a tab bar at the top of the window  
+- six or seven buttons on the tab bar  
+- their own tab bar  
 
 Features
 -------------
